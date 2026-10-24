@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hero/Hero.vcxproj" Id="39c4c9ec-4ce0-4320-8f0d-d7b26a0a77cf" />
+  <Project Path="Movie/Movie.vcxproj" Id="d1cd4129-92a8-4258-a394-22be232c7b68" />
+</Solution>
