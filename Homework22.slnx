@@ -5,4 +5,5 @@
   </Configurations>
   <Project Path="Hero/Hero.vcxproj" Id="39c4c9ec-4ce0-4320-8f0d-d7b26a0a77cf" />
   <Project Path="Movie/Movie.vcxproj" Id="d1cd4129-92a8-4258-a394-22be232c7b68" />
+  <Project Path="Product/Product.vcxproj" Id="9332194d-9cd1-41ed-aef7-7e72d5024719" />
 </Solution>
